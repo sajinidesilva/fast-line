@@ -16,6 +16,7 @@ In Fast line, gamers will have to compete with each others in a maze to get to t
 - Cardboard VR is supported. We love you even if you dont have a VR headset.
 - Easy to start with even for beginners. 
 - People inside VR and people outside VR can work together. No discrimation at all. 
+- Support android, ios as well as desktops as long as you have a latest browser. 
 
 
 ### Team Members

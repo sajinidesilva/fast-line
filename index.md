@@ -1,8 +1,26 @@
-## Welcome to GitHub Pages
+## About FastLine
 
-You can use the [editor on GitHub](https://github.com/sajinidesilva/fast-line/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fast Line is a multiplayer VR enabled game that can be played on both android and ios as well as on desktops. It is completely built on web technologies and no additional software or libraries are needed other than a latest browser. Full game is P2P. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In Fast line, gamers will have to compete with each others in a maze to get to the checkpoint first. Player who reaches the checkpoint first wins the game. Player can see the other players around them and to avoid them reaching the checkpoint, he can use available obstacles in the map or bump to each other to get on their way. Players are moving at a constant speed and head tilt direct them to the location in VR headset. In a normal desktop keyboard and mouse can be used to achieve it. If the mobile phone does not have a gyroscope they can use the touch screen as well.
+
+### Try it now
+
+[https://playcanv.as/p/JtL2iqIH/](https://playcanv.as/p/JtL2iqIH/)
+
+### Features
+
+- No software installations. (absolutely no installations at all. even for android or ios)
+- 100% web technologies
+- No Servers / All P2P
+- Cardboard VR is supported. We love you even if you dont have a VR headset.
+- Easy to start with even for beginners. 
+- People inside VR and people outside VR can work together. No discrimation at all. 
+
+
+### Team Members
+![Image of Pasindu](https://udnisap.js.org/smart-desktop/images/pasindu-profile.jpg)
+![Image of Sajini](https://udnisap.js.org/smart-desktop/images/sajini-profile.jpg)
 
 ### Markdown
 
